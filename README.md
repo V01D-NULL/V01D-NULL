@@ -19,15 +19,19 @@
 - 💵 Buisiness inquiries: ![here][2]
 - 🙂 ![Let's talk!][1]
 
-<hr>
 
-## What I actually know:
-- C
-- Python3
-<hr>
+## Languages I know:
+- 👴 C
+- 🐍 Python3
+- 🇺🇸 American English
+- 🇩🇪 German
 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V01D-NULL&layout=compact" />
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V01D-NULL&layout=compact" width="333" />
+</a>
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=V01D-NULL&show_icons=true" width="400"/>
+</a>
 
 <!-- Icons -->
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
