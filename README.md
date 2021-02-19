@@ -11,7 +11,7 @@
 - 🏁 Goals:
   - *Projects*: Improve ValidityOS, build fun games using the godot and unreal engine
   - *Life*: Make people happy as a gameplay programmer at InsomniacGames (If you can help me with this, please do remember me as I will be ready to rock after completing school / college ;) )
-- ⚡ Fun fact: Everybody dies but not everybody lives
+- ⚡ Fun fact:  ![](https://komarev.com/ghpvc/?username=V01D-NULL)
 
 <hr>
 
@@ -26,6 +26,7 @@
 - 🇺🇸 American English
 - 🇩🇪 German
 
+<!-- This will place the images next to eachother -->
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V01D-NULL&layout=compact" width="333" />
 </a>
