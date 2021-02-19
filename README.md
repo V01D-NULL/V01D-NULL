@@ -13,17 +13,25 @@
   - *Life*: Make people happy as a gameplay programmer at InsomniacGames (If you can help me with this, please do remember me as I will be ready to rock after completing school / college ;) )
 - ⚡ Fun fact: Everybody dies but not everybody lives
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V01D-NULL&theme=dracula&layout=compact" />
+<hr>
 
 ## Reach out to me!
-- Buisiness inquiries: ![here][3]
+- 💵 Buisiness inquiries: ![here][2]
+- 🙂 ![Let's talk!][1]
 
+<hr>
+
+## What I actually know:
+- C
+- Python3
+<hr>
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V01D-NULL&layout=compact" />
 
 <!-- Icons -->
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://www.flaticon.com/svg/vstatic/svg/281/281786.svg?token=exp=1613759785~hmac=4922d67a15315e9e13a09b9632ae7379
 
 <!-- All sorts of links -->
-[1]: https://twitter.com
-[2]: https://gmail.com
-[3]: mailto:timstert23@gmail.com
+[1]: https://twitter.com/V01D29149027
+[2]: mailto:timstert23@gmail.com
