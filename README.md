@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔥 I am an 18 year old developer from the USA who is is fascinated by computers and video games
+- 🔥 I am an 18 year young developer from the USA who is is fascinated by computers and video games
 - 🔭 I’m currently working on a 2D top down game made with the godot engine
 - 🌱 I’m currently learning C++ and gdscript
 - 👯 I’m looking to collaborate on ValidityOS or your kernel :)
