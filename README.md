@@ -15,7 +15,7 @@
 <hr>
 
 ## Reach out to me!
-- 💵 Buisiness inquiries: ![here][2] 
+- 💵 Buisiness inquiries: [![here]][2]
 
 
 ## Languages I know:
