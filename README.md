@@ -2,26 +2,24 @@
 
 - 🔥 I am an 18 year young developer from the USA who is is fascinated by computers and video games (I would see myself as a game developer, who likes to take occasional deep dives into the OS Development realm ;) )
 - 🔭 I’m currently working on a 2D top down game made with the godot engine
-- 🌱 I’m currently learning C++ and gdscript
+- 🌱 I’m currently learning assembly & advanced C / everything low-level ;) 
 - 👯 I’m looking to collaborate on ValidityOS or your kernel :)
-- 💬 Ask me about C, Python3
-- 📫 How to reach me: [![Twitter][1.2]][1]
+- 💬 Ask me about C
+- 📫 How to reach me: [![Twitter][1.2]][1] or via discord @ V01D#7182 (discord is preferred) 
 - 😄 Pronouns: He/Him
 - 🏁 Goals:
   - *Projects*: Improve ValidityOS, build fun games using the godot and unreal engine
-  - *Life*: Make people happy as a gameplay programmer at InsomniacGames (If you can help me with this, please do remember me as I will be ready to rock after completing school / college ;) )
+  - *Life*: Make people happy as a gameplay programmer at Insomniac Games, or become an emdedded systems developer. Either way, I want to help people. 
 - ⚡ Fun fact:  ![](https://komarev.com/ghpvc/?username=V01D-NULL)
 
 <hr>
 
 ## Reach out to me!
-- 💵 Buisiness inquiries: [![here]][2]
-- 🙂 [![Let's talk!]][1]
+- 💵 Buisiness inquiries: ![here][2] 
 
 
 ## Languages I know:
 - 👴 C
-- 🐍 Python3
 - 🇺🇸 American English
 - 🇩🇪 German
 
