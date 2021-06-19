@@ -1,9 +1,7 @@
 ## Hi there 👋
 
 - 🔥 I am an 18 year young developer from the USA who is is fascinated by computers and embedded systems.
-- 🔭 I’m currently working on the CS50x (Intro to CS by Harvard, provided by edx) course
 - 🌱 I’m currently learning assembly & advanced C / everything low-level ;) 
-- 👯 I’m looking to collaborate on ValidityOS or your kernel :)
 - 💬 Ask me about C
 - 📫 How to reach me: [![Twitter][1.2]][1] or via discord @ V01D#7182 (discord is preferred) 
 - 😄 Pronouns: He/Him
