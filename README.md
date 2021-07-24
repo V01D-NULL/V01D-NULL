@@ -3,7 +3,7 @@
 - 🔥 I am an 18 year young developer from the USA who is is fascinated by computers and embedded systems.
 - 🌱 I’m currently learning assembly & advanced C / everything low-level ;) 
 - 💬 Ask me about C
-- 📫 How to reach me: [![Twitter][1.2]][1] or via discord @ V01D#7182 (discord is preferred) 
+- 📫 How to reach me: [![Twitter][1.2]][1] or via discord @ V01D#8086 (discord is preferred) 
 - 😄 Pronouns: He/Him
 - 🏁 Goals:
   - *Projects*: Improve ValidityOS
