@@ -6,7 +6,7 @@
 - 📫 How to reach me: Reach out to me via discord @ V01D#8736
 - 😄 Pronouns: He/Him
 - 🏁 Goals:
-  - *Projects*: Improve ValidityOS
+  - *Projects*: Improve MoonOS
 - ⚡ Fun fact:  ![](https://komarev.com/ghpvc/?username=V01D-NULL)
 
 <hr>
