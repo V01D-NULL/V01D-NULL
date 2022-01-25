@@ -1,32 +1,33 @@
-## Hi there 👋
+## Hello, friend 👋
 
-- 🔥 I am an 18 year young developer from the USA who is is fascinated by computers and embedded systems.
-- 🌱 I’m currently learning assembly and everything low-level ;) 
-- 💬 Ask me about C
-- 📫 How to reach me: Reach out to me via discord @ V01D#8736
-- 😄 Pronouns: He/Him
-- 🏁 Goals:
-  - *Projects*: Improve MoonOS
-- ⚡ Fun fact:  ![](https://komarev.com/ghpvc/?username=V01D-NULL)
-
+<p align="center">
+<!--   <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100> -->
+  <samp>
+    (Name)Tim - (Age)18 years young - (Location)USA 🇺🇸 - (Disord)V01D#8736
+  </samp>
+<br><br>
+  <samp>
+    My interests lie within anything lowlevel whether that be writing custom firmware (CFW) for my game consoles or just simply writing kernels for x86-64 based computers. I'm a huge fan of everything opensource because I love seeing people get together, forging communities and creating cool software.
+  </samp>
+</p>
+<hr>
+<p>
+  <samp>
+    Check out these projects:
+  </samp>
+ </p>
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=V01D-NULL&repo=MoonOS&layout=compact&theme=apprentice"></img>
 <hr>
 
-## Reach out to me!
-- 💵 Buisiness inquiries: [here][1]
-
-
-## Languages I know:
-- 👴 C
-- 🇺🇸 American English
-- 🇩🇪 German
-
+<p>
+  <samp>
+    Statistics:
+  </samp>
+</p>
 <!-- This will place the images next to eachother -->
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V01D-NULL&layout=compact" width="333" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V01D-NULL&layout=compact&theme=apprentice" width="333" />
 </a>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=V01D-NULL&show_icons=true" width="400"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=V01D-NULL&show_icons=true&theme=apprentice" width="400"/>
 </a>
-
-<!-- All sorts of links -->
-[1]: mailto:timstert23@gmail.com
