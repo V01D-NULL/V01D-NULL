@@ -3,7 +3,7 @@
 <p align="center">
 <!--   <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100> -->
   <samp>
-    (Name)Tim - (Age)18 years young - (Location)USA 🇺🇸 - (Disord)V01D#8736
+    (Name)Tim - (Age)19 years young - (Location)USA 🇺🇸 - (Disord)V01D#8736
   </samp>
 <br><br>
   <samp>
