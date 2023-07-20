@@ -7,7 +7,11 @@
   </samp>
 <br><br>
   <samp>
-    My interests lie within anything lowlevel whether that be writing custom firmware (CFW) for my game consoles or just simply writing kernels for x86-64 based computers. I'm a huge fan of everything opensource because I love seeing people get together, forging communities and creating cool software.
+Full stack developer with experience in TypeScript, Next.js, Node, GraphQL, AWS. Excited by open source collaboration. Eager to learn, build, and play with new tech. Let's create something awesome together!
+    <br>
+    <br>
+Most of my full stack projects I keep private and away from my GitHub account because they contain or process senstive data, or are simply not worthy of having their own Repository.
+
   </samp>
 </p>
 <hr>
@@ -17,6 +21,7 @@
   </samp>
  </p>
  <div>
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=V01D-NULL&repo=Framework&layout=compact&theme=apprentice"></img>  
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=V01D-NULL&repo=MoonOS&layout=compact&theme=apprentice"></img>
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FireflyOS&repo=Firefly-Kernel&layout=compact&theme=apprentice"></img>
  </div>
