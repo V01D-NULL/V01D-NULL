@@ -10,21 +10,8 @@
 Full stack developer with experience in TypeScript, Next.js, Node, GraphQL, AWS. Excited by open source collaboration. Eager to learn, build, and play with new tech. Let's create something awesome together!
     <br>
     <br>
-Most of my full stack projects I keep private and away from my GitHub account because they contain or process senstive data, or are simply not worthy of having their own Repository.
-
   </samp>
 </p>
-<hr>
-<p>
-  <samp>
-    Check out these projects:
-  </samp>
- </p>
- <div>
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=V01D-NULL&repo=Framework&layout=compact&theme=apprentice"></img>  
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=V01D-NULL&repo=MoonOS&layout=compact&theme=apprentice"></img>
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=FireflyOS&repo=Firefly-Kernel&layout=compact&theme=apprentice"></img>
- </div>
 <hr>
 
 <p>
@@ -33,9 +20,9 @@ Most of my full stack projects I keep private and away from my GitHub account be
   </samp>
 </p>
 <!-- This will place the images next to eachother -->
-<a href="#">
+<!-- <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V01D-NULL&layout=compact&theme=apprentice" width="333" />
-</a>
+</a> -->
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=V01D-NULL&show_icons=true&theme=apprentice" width="400"/>
 </a>
