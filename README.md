@@ -16,10 +16,3 @@ Full stack developer with experience in TypeScript, Next.js, Node, GraphQL, AWS.
     Statistics:
   </samp>
 </p>
-<!-- This will place the images next to eachother -->
-<!-- <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V01D-NULL&layout=compact&theme=apprentice" width="333" />
-</a> -->
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=V01D-NULL&show_icons=true&theme=apprentice" width="400"/>
-</a>
