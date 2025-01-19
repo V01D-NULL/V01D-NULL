@@ -10,9 +10,3 @@ Full stack developer with experience in TypeScript, Next.js, Node, GraphQL, AWS.
   </samp>
 </p>
 <hr>
-
-<p>
-  <samp>
-    Statistics:
-  </samp>
-</p>
